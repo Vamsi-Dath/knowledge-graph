@@ -1,6 +1,6 @@
 title: "Design Study Lite Handbook"
 description: "A step-by-step handbook for running design studies"
-baseurl: "/knowledge-graph" # the subpath of your site
+baseurl: "" # Let GitHub Pages workflow set this automatically
 url: "https://urban-toolkit.github.io" # the base hostname & protocol for your site
 
 theme: minimal-mistakes-jekyll
