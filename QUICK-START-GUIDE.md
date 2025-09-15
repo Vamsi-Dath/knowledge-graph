@@ -46,25 +46,25 @@ A simplified 5-step process for creating data visualizations with domain experts
 ## Ready to Start?
 
 ### 🎯 **Start Your Own Project**
-1. **[Stage 1: Abstract Phase](Stage-1-Abstract-Phase/README.md)** - Begin with domain analysis
+1. **[Stage 1: Abstract Phase](Stage-1-Abstract-Phase/README** - Begin with domain analysis
 2. Use the **[Templates](Templates/)** to fill out forms for your project
 3. Follow stages in order: Stage-1 → Stage-2 → Stage-3 → Stage-4 → Stage-5
 
 ### 📚 **Learn by Example First**
-**[Complete Transport Case Study](Training-Materials/Case-Studies/Transport-Case-Study-Full/README.md)** - See the full 9-week methodology in action
+**[Complete Transport Case Study](Training-Materials/Case-Studies/Transport-Case-Study-Full/README** - See the full 9-week methodology in action
 
 ### 📖 **Detailed Academic Framework**
-**[Full Methodology](index.md)** - Complete research framework with all requirements
+**[Full Methodology]()** - Complete research framework with all requirements
 
 ## Need Help?
-- **Stuck on a stage?** Check the **[Transport Case Study](Training-Materials/Case-Studies/README.md)** for examples
+- **Stuck on a stage?** Check the **[Transport Case Study](Training-Materials/Case-Studies/README** for examples
 - **Need templates?** Look in **[Templates/](Templates/)** folder  
-- **Want details?** Read the **[Full Methodology](index.md)**
+- **Want details?** Read the **[Full Methodology]()**
 - Focus on one step at a time - don't overthink it!
 
 ---
 
 **Navigation:**
-- **🏠 Home:** [Main Handbook](index.md)
-- **🎯 Begin:** [Stage 1: Abstract Phase](Stage-1-Abstract-Phase/README.md)  
-- **📚 Examples:** [Case Studies](Training-Materials/Case-Studies/README.md)
+- **🏠 Home:** [Main Handbook]()
+- **🎯 Begin:** [Stage 1: Abstract Phase](Stage-1-Abstract-Phase/README  
+- **📚 Examples:** [Case Studies](Training-Materials/Case-Studies/README)

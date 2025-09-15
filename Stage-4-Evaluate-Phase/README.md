@@ -20,11 +20,11 @@ This phase conducts systematic usability evaluation of your interactive visualiz
 ## Files in This Stage
 
 ### Core Deliverables
-1. **[4.1-Usability-Test-Script.md](4.1-Usability-Test-Script.md)**
+1. **[4.1-Usability-Test-Script.md](4.1-Usability-Test-Script)**
    - Systematic usability testing protocol
    - Structured evaluation procedures and task scenarios
 
-2. **[4.2-Usability-Test-Notes.md](4.2-Usability-Test-Notes.md)**
+2. **[4.2-Usability-Test-Notes.md](4.2-Usability-Test-Notes)**
    - Qualitative assessment results and observations
    - Iteration planning based on evaluation outcomes
 
@@ -45,6 +45,6 @@ By completing this stage, you should have:
 - [ ] Final refinements based on user feedback
 
 ## Navigation
-- **← Previous:** [Stage 3: Build Phase](../Stage-3-Build-Phase/README.md)
-- **→ Next:** [Stage 5: Post-Design Study](../Stage-5-Post-Design-Study/README.md)
-- **📚 Case Study:** [Transport Example](../Training-Materials/Case-Studies/README.md)
+- **← Previous:** [Stage 3: Build Phase](../Stage-3-Build-Phase/README)
+- **→ Next:** [Stage 5: Post-Design Study](../Stage-5-Post-Design-Study/README)
+- **📚 Case Study:** [Transport Example](../Training-Materials/Case-Studies/README)
