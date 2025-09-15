@@ -25,14 +25,9 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'      # Try 3.0 if you still see gem errors
+          ruby-version: '3.2'     # ✅ upgraded so Bundler 2.7.2 works
           bundler-cache: true
           cache-version: 0
-
-      # Optional: force a Bundler version if Gemfile.lock requires it
-      # Uncomment if needed
-      # - name: Install Bundler
-      #   run: gem install bundler -v "~> 2.4"
 
       - name: Setup Pages
         id: pages
