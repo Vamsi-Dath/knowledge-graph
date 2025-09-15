@@ -18,11 +18,11 @@ This final phase synthesizes insights from the entire design study process, focu
 ## Files in This Stage
 
 ### Core Deliverables
-1. **[5.1-Lessons-Learned.md](5.1-Lessons-Learned.md)**
+1. **[5.1-Lessons-Learned.md](5.1-Lessons-Learned)**
    - Comprehensive methodology reflection and insights
    - Process analysis and improvement recommendations
 
-2. **[5.2-Key-Elements-of-Collaboration.md](5.2-Key-Elements-of-Collaboration.md)**
+2. **[5.2-Key-Elements-of-Collaboration.md](5.2-Key-Elements-of-Collaboration)**
    - Collaborative authoring framework analysis
    - Domain expert and researcher interaction patterns
 
@@ -46,7 +46,7 @@ By completing this stage, you should have:
 Congratulations! You have completed the full 9-week Design Study Lite methodology. Your documented process contributes to the advancement of collaborative visualization design research.
 
 ## Navigation
-- **← Previous:** [Stage 4: Evaluate Phase](../Stage-4-Evaluate-Phase/README.md)
-- **🏠 Main:** [Handbook Home](../index.md)
-- **📚 Case Study:** [Transport Example](../Training-Materials/Case-Studies/README.md)
-- **🔄 Start Again:** [Stage 1: Abstract Phase](../Stage-1-Abstract-Phase/README.md)
+- **← Previous:** [Stage 4: Evaluate Phase](../Stage-4-Evaluate-Phase/README)
+- **🏠 Main:** [Handbook Home](../)
+- **📚 Case Study:** [Transport Example](../Training-Materials/Case-Studies/README)
+- **🔄 Start Again:** [Stage 1: Abstract Phase](../Stage-1-Abstract-Phase/README)

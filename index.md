@@ -67,15 +67,15 @@ This handbook implements the Design Study "Lite" Methodology organized into five
 ## Getting Started: Choose Your Path
 
 ### 🎯 **Main Methodology Flow** (For Your Own Project)
-1. **[Quick Start Guide](QUICK-START-GUIDE.md)** ← Start here for overview
-2. **[Stage 1: Abstract Phase](Stage-1-Abstract-Phase/README.md)** ← Begin methodology
-3. **[Stage 2: Design Phase](Stage-2-Design-Phase/README.md)**
-4. **[Stage 3: Build Phase](Stage-3-Build-Phase/README.md)**
-5. **[Stage 4: Evaluate Phase](Stage-4-Evaluate-Phase/README.md)**
-6. **[Stage 5: Post-Design Study](Stage-5-Post-Design-Study/README.md)**
+1. **[Quick Start Guide](QUICK-START-GUIDE)** ← Start here for overview
+2. **[Stage 1: Abstract Phase](Stage-1-Abstract-Phase/README** ← Begin methodology
+3. **[Stage 2: Design Phase](Stage-2-Design-Phase/README**
+4. **[Stage 3: Build Phase](Stage-3-Build-Phase/README**
+5. **[Stage 4: Evaluate Phase](Stage-4-Evaluate-Phase/README**
+6. **[Stage 5: Post-Design Study](Stage-5-Post-Design-Study/README**
 
 ### 📚 **Case Study Flow** (Learn by Example)
-**[Complete Transport Case Study →](Training-Materials/Case-Studies/README.md)**
+**[Complete Transport Case Study →](Training-Materials/Case-Studies/README**
 - See a full 9-week methodology implementation
 - Understand each deliverable with real examples
 - Reference when working on your own project

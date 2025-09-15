@@ -12,12 +12,12 @@ This section contains reusable templates for implementing the Design Study Lite 
 ## Available Templates
 
 ### 📋 Project Proposal Template
-**[Template: Project Proposal →](Template-Project-Proposal.md)**
+**[Template: Project Proposal →](Template-Project-Proposal)**
 
 A comprehensive template for documenting your project objectives, scope, and initial domain analysis.
 
 ### 📊 Task Abstraction Template  
-**[Template: Task Abstraction Log →](Template-Task-Abstraction-Log.md)**
+**[Template: Task Abstraction Log →](Template-Task-Abstraction-Log)**
 
 A structured template for capturing and analyzing domain expert tasks using established taxonomies.
 
@@ -31,7 +31,7 @@ A structured template for capturing and analyzing domain expert tasks using esta
 ---
 
 ## Navigation
-- **🏠 Back to Main:** [Handbook Home](../index.md)
-- **🚀 Quick Start:** [Quick Start Guide](../QUICK-START-GUIDE.md)
+- **🏠 Back to Main:** [Handbook Home](../)
+- **🚀 Quick Start:** [Quick Start Guide](../QUICK-START-GUIDE)
 - **📚 Case Studies:** [Examples](../Training-Materials/Case-Studies/)
 - **🎯 Stage 1:** [Begin Methodology](../Stage-1-Abstract-Phase/)

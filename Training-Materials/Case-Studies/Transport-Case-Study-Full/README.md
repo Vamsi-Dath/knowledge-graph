@@ -13,31 +13,31 @@ This case study demonstrates a complete implementation of the Design Study Lite 
 ## Case Study Flow: Follow the Complete Journey
 
 ### 📋 **Week 1-2: Abstract Phase**
-**[Stage 1: Domain Analysis →](../../../Stage-1-Abstract-Phase/README.md)**
+**[Stage 1: Domain Analysis →](../../../Stage-1-Abstract-Phase/README**
 - Real interviews with transit planners
 - Domain problem identification and task abstraction
 - Application of Brehmer & Munzner + Amar et al. taxonomies
 
 ### ✏️ **Week 3-4: Design Phase**  
-**[Stage 2: Iterative Design →](../../../Stage-2-Design-Phase/README.md)**
+**[Stage 2: Iterative Design →](../../../Stage-2-Design-Phase/README**
 - Hand-drawn sketching sessions with domain experts
 - Data exploration and relationship analysis
 - Digital prototyping and feedback integration
 
 ### 🛠️ **Week 5-6: Build Phase**
-**[Stage 3: Implementation →](../../../Stage-3-Build-Phase/README.md)**
+**[Stage 3: Implementation →](../../../Stage-3-Build-Phase/README**
 - Translation from prototypes to interactive visualizations
 - Technical requirement fulfillment and validation
 - Working visualization with all required features
 
 ### 🧪 **Week 7-8: Evaluate Phase**
-**[Stage 4: Usability Testing →](../../../Stage-4-Evaluate-Phase/README.md)**
+**[Stage 4: Usability Testing →](../../../Stage-4-Evaluate-Phase/README**
 - Systematic usability evaluation with transit planners
 - Qualitative assessment and satisfaction measurement
 - Iteration planning based on real user feedback
 
 ### 📝 **Week 9: Post-Design Study**
-**[Stage 5: Reflection →](../../../Stage-5-Post-Design-Study/README.md)**
+**[Stage 5: Reflection →](../../../Stage-5-Post-Design-Study/README**
 - Collaborative authoring analysis and insights
 - Methodology effectiveness assessment
 - Lessons learned for future applications
@@ -49,15 +49,15 @@ This case study demonstrates a complete implementation of the Design Study Lite 
 This case study references the actual files from the main handbook stages, showing how they were completed for the transportation domain:
 
 ### 📋 **Stage 1: Abstract Phase Examples**
-- **[1.1-Project-Proposal-Transport-Example.md](../../../Stage-1-Abstract-Phase/1.1-Project-Proposal-Transport-Example.md)** - Complete project proposal for transportation domain
-- **[1.2-Interview-Log.md](../../../Stage-1-Abstract-Phase/1.2-Interview-Log.md)** - Sample interviews with transit planners  
-- **[1.3-Task-Abstraction-Log.md](../../../Stage-1-Abstract-Phase/1.3-Task-Abstraction-Log.md)** - Task analysis for transportation domain
-- **[1.4-Task-Taxonomies.md](../../../Stage-1-Abstract-Phase/1.4-Task-Taxonomies.md)** - Transportation-specific task classifications
+- **[1.1-Project-Proposal-Transport-Example.md](../../../Stage-1-Abstract-Phase/1.1-Project-Proposal-Transport-Example)** - Complete project proposal for transportation domain
+- **[1.2-Interview-Log.md](../../../Stage-1-Abstract-Phase/1.2-Interview-Log)** - Sample interviews with transit planners  
+- **[1.3-Task-Abstraction-Log.md](../../../Stage-1-Abstract-Phase/1.3-Task-Abstraction-Log)** - Task analysis for transportation domain
+- **[1.4-Task-Taxonomies.md](../../../Stage-1-Abstract-Phase/1.4-Task-Taxonomies)** - Transportation-specific task classifications
 
 ### ✏️ **Stage 2: Design Phase Examples**
-- **[2.1-Hand-Drawn-Sketch-Log.md](../../../Stage-2-Design-Phase/2.1-Hand-Drawn-Sketch-Log.md)** - Documented sketching process with transport visualizations
-- **[2.2-Data-Cleaning-Log.md](../../../Stage-2-Design-Phase/2.2-Data-Cleaning-Log.md)** - Real data cleaning process for transit data
-- **[2.3-Digital-Sketch-Figma-Notes.md](../../../Stage-2-Design-Phase/2.3-Digital-Sketch-Figma-Notes.md)** - Complete Figma design process documentation
+- **[2.1-Hand-Drawn-Sketch-Log.md](../../../Stage-2-Design-Phase/2.1-Hand-Drawn-Sketch-Log)** - Documented sketching process with transport visualizations
+- **[2.2-Data-Cleaning-Log.md](../../../Stage-2-Design-Phase/2.2-Data-Cleaning-Log)** - Real data cleaning process for transit data
+- **[2.3-Digital-Sketch-Figma-Notes.md](../../../Stage-2-Design-Phase/2.3-Digital-Sketch-Figma-Notes)** - Complete Figma design process documentation
 - **[2.4-Digital-Prototype-VegaLite.json](../../../Stage-2-Design-Phase/2.4-Digital-Prototype-VegaLite.json)** - Working Vega-Lite prototype for transit data
 
 ### 🛠️ **Stage 3: Build Phase Examples**
@@ -65,15 +65,15 @@ This case study references the actual files from the main handbook stages, showi
   - Real transportation data integration
   - Multiple view types (routes, temporal trends, usage patterns)
   - Advanced filtering and interaction capabilities
-- **[3.2-Build-Log.md](../../../Stage-3-Build-Phase/3.2-Build-Log.md)** - Detailed development process documentation
+- **[3.2-Build-Log.md](../../../Stage-3-Build-Phase/3.2-Build-Log)** - Detailed development process documentation
 
 ### 🧪 **Stage 4: Evaluate Phase Examples**
-- **[4.1-Usability-Test-Script.md](../../../Stage-4-Evaluate-Phase/4.1-Usability-Test-Script.md)** - Customized testing script for transportation tools
-- **[4.2-Usability-Test-Notes.md](../../../Stage-4-Evaluate-Phase/4.2-Usability-Test-Notes.md)** - Sample test session results and analysis
+- **[4.1-Usability-Test-Script.md](../../../Stage-4-Evaluate-Phase/4.1-Usability-Test-Script)** - Customized testing script for transportation tools
+- **[4.2-Usability-Test-Notes.md](../../../Stage-4-Evaluate-Phase/4.2-Usability-Test-Notes)** - Sample test session results and analysis
 
 ### 📝 **Stage 5: Post-Design Study Examples**
-- **[5.1-Lessons-Learned.md](../../../Stage-5-Post-Design-Study/5.1-Lessons-Learned.md)** - Specific insights from transportation domain project
-- **[5.2-Key-Elements-of-Collaboration.md](../../../Stage-5-Post-Design-Study/5.2-Key-Elements-of-Collaboration.md)** - Collaboration patterns with city agencies
+- **[5.1-Lessons-Learned.md](../../../Stage-5-Post-Design-Study/5.1-Lessons-Learned)** - Specific insights from transportation domain project
+- **[5.2-Key-Elements-of-Collaboration.md](../../../Stage-5-Post-Design-Study/5.2-Key-Elements-of-Collaboration)** - Collaboration patterns with city agencies
 
 ---
 
@@ -111,11 +111,11 @@ After reviewing this case study, you should understand:
 
 ### 📖 **Sequential Learning** (Recommended)
 Follow the stages in order to understand the complete methodology:
-1. **[Start: Week 1-2 Abstract →](../../../Stage-1-Abstract-Phase/README.md)**
-2. **[Week 3-4 Design →](../../../Stage-2-Design-Phase/README.md)**  
-3. **[Week 5-6 Build →](../../../Stage-3-Build-Phase/README.md)**
-4. **[Week 7-8 Evaluate →](../../../Stage-4-Evaluate-Phase/README.md)**
-5. **[Week 9 Reflection →](../../../Stage-5-Post-Design-Study/README.md)**
+1. **[Start: Week 1-2 Abstract →](../../../Stage-1-Abstract-Phase/README**
+2. **[Week 3-4 Design →](../../../Stage-2-Design-Phase/README**  
+3. **[Week 5-6 Build →](../../../Stage-3-Build-Phase/README**
+4. **[Week 7-8 Evaluate →](../../../Stage-4-Evaluate-Phase/README**
+5. **[Week 9 Reflection →](../../../Stage-5-Post-Design-Study/README**
 
 ### 🔍 **Reference Mode** (During Your Project)
 Jump to specific stages when you need examples:
@@ -142,10 +142,10 @@ Use structures as starting points for your domain:
 ---
 
 ## Navigation
-- **🏠 Case Studies:** [All Case Studies](../README.md)
-- **📖 Main Handbook:** [Methodology Home](../../../index.md)
-- **🚀 Quick Start:** [Begin Your Project](../../../QUICK-START-GUIDE.md)
-- **🎯 Stage 1:** [Start Methodology](../../../Stage-1-Abstract-Phase/README.md)
+- **🏠 Case Studies:** [All Case Studies](../README)
+- **📖 Main Handbook:** [Methodology Home](../../../)
+- **🚀 Quick Start:** [Begin Your Project](../../../QUICK-START-GUIDE)
+- **🎯 Stage 1:** [Start Methodology](../../../Stage-1-Abstract-Phase/README)
 
 ## Next Steps
 

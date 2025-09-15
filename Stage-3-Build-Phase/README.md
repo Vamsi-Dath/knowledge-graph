@@ -24,7 +24,7 @@ This phase translates your digital prototypes into fully interactive web-based v
    - Includes index.html, main.js, style.css, and documentation
    - **[Live Demo](3.1-Interactive-Viz-Transport/index.html)** - View the working visualization
 
-2. **[3.2-Build-Log.md](3.2-Build-Log.md)**
+2. **[3.2-Build-Log.md](3.2-Build-Log)**
    - Technical development process documentation
    - Implementation decisions and requirement validation
 
@@ -44,6 +44,6 @@ By completing this stage, you should have:
 - [ ] Exploration-friendly visualization supporting domain expert tasks
 
 ## Navigation
-- **← Previous:** [Stage 2: Design Phase](../Stage-2-Design-Phase/README.md)
-- **→ Next:** [Stage 4: Evaluate Phase](../Stage-4-Evaluate-Phase/README.md)
-- **📚 Case Study:** [Transport Example](../Training-Materials/Case-Studies/README.md)
+- **← Previous:** [Stage 2: Design Phase](../Stage-2-Design-Phase/README)
+- **→ Next:** [Stage 4: Evaluate Phase](../Stage-4-Evaluate-Phase/README)
+- **📚 Case Study:** [Transport Example](../Training-Materials/Case-Studies/README)

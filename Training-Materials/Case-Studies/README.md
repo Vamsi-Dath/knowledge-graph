@@ -12,7 +12,7 @@ This section contains complete implementations of the Design Study Lite methodol
 ## Available Case Studies
 
 ### 🚌 Transport Case Study: Bus Delay Analysis
-**[Complete Transport Domain Implementation →](Transport-Case-Study-Full/README.md)**
+**[Complete Transport Domain Implementation →](Transport-Case-Study-Full/README**
 
 A comprehensive example demonstrating the full 9-week methodology applied to urban transit planning. This case study shows how to analyze bus delay patterns with domain experts from transportation planning.
 
@@ -54,7 +54,7 @@ A comprehensive example demonstrating the full 9-week methodology applied to urb
 ---
 
 ## Navigation
-- **🏠 Back to Main:** [Handbook Home](../../index.md)
-- **🚀 Quick Start:** [Quick Start Guide](../../QUICK-START-GUIDE.md)
+- **🏠 Back to Main:** [Handbook Home](../../)
+- **🚀 Quick Start:** [Quick Start Guide](../../QUICK-START-GUIDE)
 - **📋 Templates:** [Reusable Templates](../../Templates/)
-- **🎯 Stage 1:** [Begin Methodology](../../Stage-1-Abstract-Phase/README.md)
+- **🎯 Stage 1:** [Begin Methodology](../../Stage-1-Abstract-Phase/README)

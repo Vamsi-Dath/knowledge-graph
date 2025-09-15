@@ -21,15 +21,15 @@ This phase focuses on iterative design development through systematic sketching,
 ## Files in This Stage
 
 ### Core Deliverables
-1. **[2.1-Hand-Drawn-Sketch-Log.md](2.1-Hand-Drawn-Sketch-Log.md)**
+1. **[2.1-Hand-Drawn-Sketch-Log.md](2.1-Hand-Drawn-Sketch-Log)**
    - Comprehensive sketching iteration documentation
    - Design evolution tracking through feedback cycles
 
-2. **[2.2-Data-Cleaning-Log.md](2.2-Data-Cleaning-Log.md)**
+2. **[2.2-Data-Cleaning-Log.md](2.2-Data-Cleaning-Log)**
    - Data relationship formulation and mining processes
    - Exploratory data analysis documentation
 
-3. **[2.3-Digital-Sketch-Figma-Notes.md](2.3-Digital-Sketch-Figma-Notes.md)**
+3. **[2.3-Digital-Sketch-Figma-Notes.md](2.3-Digital-Sketch-Figma-Notes)**
    - Platform comparison and digital design evolution
    - Tool effectiveness analysis for visualization design
 
@@ -45,6 +45,6 @@ By completing this stage, you should have:
 - [ ] Final digital prototype ready for implementation
 
 ## Navigation
-- **← Previous:** [Stage 1: Abstract Phase](../Stage-1-Abstract-Phase/README.md)
-- **→ Next:** [Stage 3: Build Phase](../Stage-3-Build-Phase/README.md)
-- **📚 Case Study:** [Transport Example](../Training-Materials/Case-Studies/README.md)
+- **← Previous:** [Stage 1: Abstract Phase](../Stage-1-Abstract-Phase/README)
+- **→ Next:** [Stage 3: Build Phase](../Stage-3-Build-Phase/README)
+- **📚 Case Study:** [Transport Example](../Training-Materials/Case-Studies/README)

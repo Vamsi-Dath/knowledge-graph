@@ -20,19 +20,19 @@ This phase establishes the foundation for your design study through systematic d
 ## Files in This Stage
 
 ### Core Deliverables
-1. **[1.1-Project-Proposal-Transport-Example.md](1.1-Project-Proposal-Transport-Example.md)**
+1. **[1.1-Project-Proposal-Transport-Example.md](1.1-Project-Proposal-Transport-Example)**
    - Comprehensive domain problem outline
    - Example implementation using transport domain
 
-2. **[1.2-Interview-Log.md](1.2-Interview-Log.md)**
+2. **[1.2-Interview-Log.md](1.2-Interview-Log)**
    - Semi-structured interview documentation
    - Modality analysis and expert insights
 
-3. **[1.3-Task-Abstraction-Log.md](1.3-Task-Abstraction-Log.md)**
+3. **[1.3-Task-Abstraction-Log.md](1.3-Task-Abstraction-Log)**
    - Systematic task characterization using established frameworks
    - Translation from domain problems to abstract tasks
 
-4. **[1.4-Task-Taxonomies.md](1.4-Task-Taxonomies.md)**
+4. **[1.4-Task-Taxonomies.md](1.4-Task-Taxonomies)**
    - Integration of Brehmer & Munzner with Amar et al. taxonomies
    - Comprehensive task classification framework
 
@@ -44,6 +44,6 @@ By completing this stage, you should have:
 - [ ] Comprehensive task taxonomy integration
 
 ## Navigation
-- **← Previous:** [Main README](../index.md)
-- **→ Next:** [Stage 2: Design Phase](../Stage-2-Design-Phase/README.md)
-- **📚 Case Study:** [Transport Example](../Training-Materials/Case-Studies/README.md)
+- **← Previous:** [Main README](../)
+- **→ Next:** [Stage 2: Design Phase](../Stage-2-Design-Phase/README)
+- **📚 Case Study:** [Transport Example](../Training-Materials/Case-Studies/README)
