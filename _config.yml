@@ -8,21 +8,11 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
   - jekyll-redirect-from
-
-# Make README files serve as index pages
-plugins:
   - jekyll-readme-index
-
-# Navigation
-collections:
-  stages:
-    output: true
-    permalink: /:collection/:path/
 
 defaults:
   - scope:
       path: ""
-      type: "stages"
     values:
       layout: single
       sidebar:
