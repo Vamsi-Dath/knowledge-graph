@@ -1,7 +1,7 @@
 title: "Design Study Lite Handbook"
 description: "A step-by-step handbook for running design studies"
-baseurl: "" # leave blank unless serving from a subpath
-url: "https://urban-toolkit.github.io/knowledge-graph"
+baseurl: "/knowledge-graph" # the subpath of your site
+url: "https://urban-toolkit.github.io" # the base hostname & protocol for your site
 
 theme: minimal-mistakes-jekyll
 
