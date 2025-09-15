@@ -1,0 +1,29 @@
+title: "Design Study Lite Handbook"
+description: "A step-by-step handbook for running design studies"
+baseurl: "" # leave blank unless serving from a subpath
+url: "https://urban-toolkit.github.io/knowledge-graph"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+# Make README files serve as index pages
+plugins:
+  - jekyll-readme-index
+
+# Navigation
+collections:
+  stages:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "stages"
+    values:
+      layout: single
+      sidebar:
+        nav: "stages"
