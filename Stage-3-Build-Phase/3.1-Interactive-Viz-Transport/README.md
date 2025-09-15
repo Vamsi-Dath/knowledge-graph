@@ -43,6 +43,6 @@ Interactive visualization dashboard showing bus delay patterns and passenger dat
 ## Navigation
 - **🏠 Stage 3:** [Build Phase Overview](../README)
 - **📁 Build Log:** [Development Process](../3.2-Build-Log)
-- **🔄 Live Demo:** [Open Dashboard](index.html)
-- **⚡ MVP Demo:** [Open Minimal Version](index-minimal.html)
+- **🔄 Live Demo:** [Open Dashboard](https://urban-toolkit.github.io/knowledge-graph/Stage-3-Build-Phase/3.1-Interactive-Viz-Transport/index.html)
+- **⚡ MVP Demo:** [Open Minimal Version](https://urban-toolkit.github.io/knowledge-graph/Stage-3-Build-Phase/3.1-Interactive-Viz-Transport/index-minimal.html)
 - **📚 Case Study:** [Transport Example](../../Training-Materials/Case-Studies/README)
