@@ -4,6 +4,8 @@ This handbook serves as the definitive guide for conducting a Design Study Lite 
 
 The methodology is designed to meticulously capture the entire process of collaborative visualization design, from initial domain problem identification to final evaluation and reflection.
 
+### Find the handbook at: [Design Study Lite Handbook: A Complete Reference](https://urban-toolkit.github.io/knowledge-graph/)
+
 ## Methodology Framework
 
 This handbook implements the Design Study "Lite" Methodology organized into five main phases corresponding to a 9-week research cycle:
