@@ -1,0 +1,26 @@
+# [Artifact]: [System] [to_detect] [Problem] [in] [Location]
+
+## [Design_Concept]
+
+[Problem] [for] [User], [Condition]. [State], [Solution] [related_to] [Priority]. 
+[identify]  [Weather_Event], [Weather_Event], [Weather_Event] [condition] [Urban_Infrastructure] [Solution] [Urban_Infrastructure] [Solution] [related_to] [Problem] and [Priority] [related_to] [Outcome].
+
+[Timeine] [Methodology] [Solution] [Release]. [State] [using] [System] [extend] [Solution] [state] [Timeline] [User] [State].
+
+## [Design_Concept]: 
+
+### [Priority]:
+[Develop] [Tool] [extend] [User] [Solution] [using] [Data].
+
+### [Priority]:
+[Development][Algorithm] [implemented] [Software] [extend] [Task] [Task] [Weather_Event]
+
+### [Priority]:
+
+[develop] [Development] [Framework] [for] [Design_Concept]
+
+## [User]:
+
+[Domain_Expert]: [Domain_Expert], [Domain_Expert].
+
+[User]: [User] [User] [State] [condition] [Location] [condition] [Location] [condition] [Solution].

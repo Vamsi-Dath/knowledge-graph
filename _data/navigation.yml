@@ -53,3 +53,8 @@ stages:
         url: /Training-Materials/Case-Studies/README
       - title: "Templates"
         url: /Templates/README
+  
+  - title: "Additional Resources"
+    children:
+      - title: "Manual Annotaions"
+        url: /Manual-Annotation/README
