@@ -69,6 +69,11 @@
                     "definition": "An event marking the launch or deployment of the visual analytics tool or system.",
                     "type": "entity",
                     "examples": ["Beta release", "Public launch", "Version update"]
+                },
+                "Inference": {
+                    "definition": "An event where conclusions or insights are drawn from data analysis after the design study.",
+                    "type": "entity",
+                    "examples": ["Data interpretation session", "Insight generation meeting", "Usage session"]
                 }
             }
         },
@@ -150,7 +155,7 @@
                 "Technical_Concept": {
                     "definition": "An idea or principle related to technology, computer science, or data analysis.",
                     "type": "entity",
-                    "examples": ["Machine Learning", "Data Mining", "Visualization Techniques"]
+                    "examples": ["Machine Learning", "Data Mining", "Visualization Techniques", "Finding Longest Path in Graph", "Clustering nodes in Network" ]
                 },
                 "Domain_Concept": {
                     "definition": "An idea or principle specific to the domain of interest for the design study.",
@@ -211,6 +216,9 @@
                     "definition": "The result or consequence of actions taken during the design study.",
                     "type": "entity",
                     "examples": ["Improved user satisfaction", "Increased data accuracy", "Enhanced visualization effectiveness"]
+                },
+                "Scope": {
+                    "definition": "The extent, range of influence or application of a related Concept in the design study."
                 }
             }
         }
