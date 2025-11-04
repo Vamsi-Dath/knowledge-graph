@@ -7,7 +7,7 @@ sidebar:
 
 Below are embedded files from the Week-1 deliverables for the Project Proposal v2. These use iframe embeds so you can preview the raw text/json directly in the page.
 
-[← Back to Manual Annotations]({{ site.baseurl }}/Manual-Annotation/)
+[← Back to Manual Annotations]({{ site.baseurl }}/Manual-Annotation/README)
 
 
 ### Project-Proposal_v2.txt
