@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="YHfbvXsyHGZj7FbVzZfL">
-        <mxGraphModel dx="795" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="780" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -81,6 +81,15 @@
                             <mxPoint x="120" y="680"/>
                         </Array>
                         <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="describe" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_YohBtGjaS3fdiYh3aLa-2" target="vYFf31mlCu3mkxG_AFyE-13">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="820" y="1101.43994140625" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="820" y="170"/>
+                            <mxPoint x="820" y="1100"/>
+                        </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="_YohBtGjaS3fdiYh3aLa-2" value="Person" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
@@ -265,6 +274,15 @@
                 <mxCell id="vYFf31mlCu3mkxG_AFyE-13" value="Priority" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="650" y="1070" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="12" value="in_which" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vYFf31mlCu3mkxG_AFyE-14">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="770" y="120" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="870" y="1040"/>
+                            <mxPoint x="870" y="120"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="vYFf31mlCu3mkxG_AFyE-14" value="Timeline" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="650" y="1010" width="120" height="60" as="geometry"/>
                 </mxCell>
@@ -322,11 +340,17 @@
                 <mxCell id="4" value="Scope" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="530" y="1010" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="Methodology" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="370" y="950" width="120" height="60" as="geometry"/>
-                </mxCell>
                 <mxCell id="8" value="Inference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="370" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Note" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="790" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="670" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Poster" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="730" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

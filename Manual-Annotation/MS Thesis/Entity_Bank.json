@@ -140,6 +140,21 @@
                     "definition": "A structured display of information, often using slides, to communicate findings and insights from the design study.",
                     "type": "entity",
                     "examples": ["PowerPoint presentation", "Keynote presentation", "Google Slides presentation"]
+                },
+                "Note": {
+                    "definition": "A brief record of points or ideas jotted down during the design study for future reference.",
+                    "type": "entity",
+                    "examples": ["Meeting notes", "Research observations", "Design ideas"]
+                },
+                "Log": {
+                    "definition": "A detailed record of events, actions, or observations made during the design study.",
+                    "type": "entity",
+                    "examples": ["Interview log", "Experiment log", "Development log"]
+                },
+                "Poster": {
+                    "definition": "A visual representation summarizing key aspects of the design study, often used for presentations at conferences or meetings.",
+                    "type": "entity",
+                    "examples": ["Conference poster", "Research summary poster"]
                 }
             }
         },
