@@ -26,4 +26,4 @@ Below is the embedded Interview Log from the Week-1 deliverables. The iframe sho
 
 [Open ExtractSession-Interview-log.txt]({{ site.baseurl }}/Manual-Annotation/MS%20Thesis/files/design-study-routes/Week-1/Deliverables/Interview-log-txt/ExtractSession-Interview-log.txt)
 
-[← Back to Manual Annotations]({{ site.baseurl }}/Manual-Annotation/)
+[← Back to Manual Annotations]({{ site.baseurl }}/Manual-Annotation/README)
