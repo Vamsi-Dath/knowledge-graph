@@ -26,3 +26,5 @@ Below are embedded files from the Week-1 deliverables for the Project Proposal v
 <iframe src="{{ site.baseurl }}/Manual-Annotation/MS%20Thesis/files/design-study-routes/Week-1/Deliverables/Project-Proposal_v2-txt/ExtractSession-Project-Proposal_v2.txt" width="100%" height="420" style="border:1px solid #ddd;"></iframe>
 
 [Open ExtractSession-Project-Proposal_v2.txt]({{ site.baseurl }}/Manual-Annotation/MS%20Thesis/files/design-study-routes/Week-1/Deliverables/Project-Proposal_v2-txt/ExtractSession-Project-Proposal_v2.txt)
+
+[← Back to Manual Annotations]({{ site.baseurl }}/Manual-Annotation/README)
