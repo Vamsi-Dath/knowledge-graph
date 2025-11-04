@@ -7,7 +7,7 @@ sidebar:
 
 Below are embedded files from the Week-1 deliverables for the Project Proposal v2. These use iframe embeds so you can preview the raw text/json directly in the page.
 
-[← Back to Manual Annotations]({{ site.baseurl }}/Manual-Annotation/README)
+[← Back to Manual Annotations]({{ site.baseurl }}/Manual-Annotation/README.html)
 
 
 ### Project-Proposal_v2.txt
@@ -27,4 +27,4 @@ Below are embedded files from the Week-1 deliverables for the Project Proposal v
 
 [Open ExtractSession-Project-Proposal_v2.txt]({{ site.baseurl }}/Manual-Annotation/MS%20Thesis/files/design-study-routes/Week-1/Deliverables/Project-Proposal_v2-txt/ExtractSession-Project-Proposal_v2.txt)
 
-[← Back to Manual Annotations]({{ site.baseurl }}/Manual-Annotation/README)
+[← Back to Manual Annotations]({{ site.baseurl }}/Manual-Annotation/README.html)
