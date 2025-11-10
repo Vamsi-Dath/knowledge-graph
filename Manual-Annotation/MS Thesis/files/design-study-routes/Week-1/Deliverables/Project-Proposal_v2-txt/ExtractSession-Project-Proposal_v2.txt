@@ -5,7 +5,7 @@
 [Problem] [for] [User], [applies_to] [Scope]. [State], [Solution] [related_to] [Priority]. 
 [identify]  [Weather_Event], [Weather_Event], [Weather_Event] [affects] [Urban_Infrastructure] [Solution] [related_to] [Outcome] and [Priority] [related_to] [Outcome].
 
-[Timeine] [Technical_Concept] [Scope] [Solution] [Scope] [Inference]. [State] [System] [extend] [Solution] [Inference].
+[Time_Component] [Technical_Concept] [Scope] [Solution] [Scope] [Inference]. [State] [System] [extend] [Solution] [Inference].
 
 ## [Design_Concept]: 
 

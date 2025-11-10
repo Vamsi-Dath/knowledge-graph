@@ -17,12 +17,6 @@
                             },
                             {
                                 "text": "Dr. Abhinav Wadhwa (Domain Expert)"
-                            },
-                            {
-                                "text": "Dr. Sharma"
-                            },
-                            {
-                                "text": "Dr. Wadhwa"
                             }
                         ]
                     },
@@ -144,7 +138,7 @@
                 "entity_category": "Concept",
                 "items": [
                     {
-                        "entity_type": "Timeline",
+                        "entity_type": "Time_Component",
                         "items": [
                             {
                                 "text": "Date: 23/09/2025"
@@ -236,9 +230,6 @@
                             },
                             {
                                 "text": "exists"
-                            },
-                            {
-                                "text": "exist"
                             },
                             {
                                 "text": "There is previous work on systems"
