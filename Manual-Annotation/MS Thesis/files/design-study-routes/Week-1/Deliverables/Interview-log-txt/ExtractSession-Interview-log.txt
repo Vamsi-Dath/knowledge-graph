@@ -2,7 +2,7 @@
 
 ## [Online_Meeting]
 
-## [Timeline] ([Timeline])
+## [Time_Component] ([Time_Component])
 
 ## [Audience]: 
 [Audience], [Domain_Expert], [Domain_Expert], [Audience], [Audience], [Computer_Expert]

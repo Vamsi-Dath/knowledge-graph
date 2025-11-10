@@ -28,6 +28,16 @@
                     "definition": "A person or group of people who observe or evaluate the design study.",
                     "type": "entity",
                     "examples": ["Conference attendees", "Workshop participants", "Peer reviewers"]
+                },
+                "Stakeholder": {
+                    "definition": "A person or organization with an interest or concern in the design study.",
+                    "type": "entity",
+                    "examples": ["Project sponsor", "Funding agency", "Organizational leader", "analyst", "manager", "researcher"]
+                },
+                "Data_Subject": {
+                    "definition": "An individual whose data is being collected and analyzed in the design study.",
+                    "type": "entity",
+                    "examples": ["Survey respondent", "Experiment participant", "User whose behavior is tracked", "drivers", "commuters",  "pedastrians", "cyclists", "residents", "tourists", "business owners"]
                 }
             }
         },
@@ -74,6 +84,11 @@
                     "definition": "An event where conclusions or insights are drawn from data analysis after the design study.",
                     "type": "entity",
                     "examples": ["Data interpretation session", "Insight generation meeting", "Usage session"]
+                },
+                "Simulation": {
+                    "definition": "A virtual model or representation of a system or process used to study its behavior under different conditions during the design study.",
+                    "type": "entity",
+                    "examples": ["Traffic flow simulation", "Epidemiological model", "Weather pattern simulation"]
                 }
             }
         },
@@ -119,7 +134,7 @@
                 "System": {
                     "definition": "An integrated set of components working together to achieve the objectives of the design study.",
                     "type": "entity",
-                    "examples": ["Data processing pipeline", "Visualization platform"]
+                    "examples": ["Data processing pipeline", "Visualization platform", "Project system"]
                 },
                 "Sketch": {
                     "definition": "A rough drawing or outline created during the design study to visualize ideas and concepts.",
@@ -155,6 +170,26 @@
                     "definition": "A visual representation summarizing key aspects of the design study, often used for presentations at conferences or meetings.",
                     "type": "entity",
                     "examples": ["Conference poster", "Research summary poster"]
+                },
+                "Documentation": {
+                    "definition": "Comprehensive information and instructions related to the design study, including methodologies, processes, and findings.",
+                    "type": "entity",
+                    "examples": ["User manual", "Technical documentation", "Project documentation"]
+                },
+                "Template": {
+                    "definition": "A pre-designed format or structure used to standardize documents or artifacts in the design study.",
+                    "type": "entity",
+                    "examples": ["Report template", "Presentation template", "Data collection template"]
+                },
+                "Data_Model": {
+                    "definition": "A structured representation of data and its relationships used in the design study for analysis and visualization.",
+                    "type": "entity",
+                    "examples": ["Relational database model", "Graph data model", "Hierarchical data model"]
+                },
+                "Web_Component": {
+                    "definition": "A modular, reusable piece of code used to build web-based visual analytics tools or systems in the design study.",
+                    "type": "entity",
+                    "examples": ["Custom D3.js component", "React visualization ", "Vue.js data table", "frontend module", "backend service"]
                 }
             }
         },
@@ -203,7 +238,7 @@
                     "examples": ["Project timeline", "Development milestones", "Research phases"]
                 },
                 "Task": {
-                    "definition": "A specific activity or objective that participants aim to accomplish during the design study.",
+                    "definition": "A specific `identified` activity or objective that participants aim to accomplish during the design study.",
                     "type": "entity",
                     "examples": ["Data analysis task", "Visualization creation task", "User feedback collection task"]
                 },
@@ -212,7 +247,7 @@
                     "type": "entity",
                     "examples": ["High priority task", "Medium priority task", "Low priority task"]
                 },
-                "Problmem": {
+                "Problem": {
                     "definition": "A challenge or issue that needs to be addressed during the design study.",
                     "type": "entity",
                     "examples": ["Data quality issues", "User engagement challenges", "Technical limitations"]
@@ -225,7 +260,7 @@
                 "State": {
                     "definition": "A specific condition or status relevant to the design study.",
                     "type": "entity",
-                    "examples": ["Active state", "Inactive state", "Error state"]
+                    "examples": ["Active state", "Inactive state", "Error state", "moving between two points", "reliance on external data", "exists", "not responding", "travelling"]
                 },
                 "Outcome": {
                     "definition": "The result or consequence of actions taken during the design study.",
@@ -233,7 +268,39 @@
                     "examples": ["Improved user satisfaction", "Increased data accuracy", "Enhanced visualization effectiveness"]
                 },
                 "Scope": {
-                    "definition": "The extent, range of influence or application of a related Concept in the design study."
+                    "definition": "The extent, range of influence or application of a related Concept in the design study.",
+                    "type": "entity",
+                    "examples": ["for the route", "based on user provided threshold", "within the selected region", "over the entire dataset", "if new data is available"]
+                },
+                "Time_Component": {
+                    "definition": "An element related to the measurement or consideration of time within the design study.",
+                    "type": "entity",
+                    "examples": ["current", "past", "daily", "weekly", "monthly", "quarterly", "annually", "Week -1", "01-01-2025", "01:00 PM", "Q1 2025", "01-01-2025 to 31-01-2025"]
+                },
+                "Agenda": {
+                    "definition": "A list or outline of topics to be discussed or addressed during meetings or sessions in the design study.",
+                    "type": "entity",
+                    "examples": ["Project kickoff agenda", "Weekly progress meeting agenda", "Final presentation agenda", "to know about the project", "to understand the system", "to define the scope" ]
+                },
+                "Instruction": {
+                    "definition": "A `provided` directive or guideline to participants to guide their actions or decisions during the design study.",
+                    "type": "entity",
+                    "examples": ["Data collection instructions", "Analysis procedure instructions", "Visualization creation guidelines", "to fill the documentation", "to create the report"]
+                },
+                "Scheduling": {
+                    "definition": "The arrangement or planning of events, meetings, or tasks in relation to time within the design study.",
+                    "type": "entity",
+                    "examples": ["Meeting schedule", "Task timeline", "Project calendar", "at any point", "for any given route", "at the same time"]
+                },
+                "Assumption": {
+                    "definition": "A belief or statement taken for granted without proof during the design study.",
+                    "type": "entity",
+                    "examples": ["assuming dataset to be clean", "User behavior assumption", "assuming System performance remains constant"]
+                },
+                "Expectation": {
+                    "definition": "A belief or anticipation about outcomes or results during the design study.",
+                    "type": "entity",
+                    "examples": ["expecting high user engagement", "Data accuracy expectation", "manage to deliver on time", "that the data will be available soon", "that the users will provide feedback quickly" ]
                 }
             }
         }
