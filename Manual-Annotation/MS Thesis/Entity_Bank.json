@@ -190,6 +190,11 @@
                     "definition": "A modular, reusable piece of code used to build web-based visual analytics tools or systems in the design study.",
                     "type": "entity",
                     "examples": ["Custom D3.js component", "React visualization ", "Vue.js data table", "frontend module", "backend service"]
+                },
+                "Link": {
+                    "definition": "A reference or connection to an external resource or location relevant to the design study.",
+                    "type": "entity",
+                    "examples": ["Dataset URL", "Research article link", "Tool download link", "https://example.com/dataset", "https://example.com/tool"]
                 }
             }
         },
